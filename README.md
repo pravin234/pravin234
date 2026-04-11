@@ -43,19 +43,6 @@ Passionate about building **reliable, scalable, and intelligent automation frame
 
 ---
 
-## ✍️ Automation Blogger
-
-I regularly write about:
-
-✔ Playwright & modern automation  
-✔ Test architecture & framework design  
-✔ Cloud & performance testing strategies  
-✔ AI/LLM in software testing  
-✔ Real-world testing challenges  
-
-👉 **Read my blogs here:**  
-🔗 
-
 ---
 
 ## 🚀 What I Love Working On
