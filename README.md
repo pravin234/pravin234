@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Pravin Kadam
 
-🚀 **Automation Test Engineer | Playwright | TypeScript | API, Web UI & Cloud Testing**  
+🚀 **Automation Test Engineer | Playwright | TypeScript | API, Web UI & Cloud Testing | Performance Testing**  
 Passionate about building **reliable, scalable, and intelligent automation frameworks**
 
 ---
